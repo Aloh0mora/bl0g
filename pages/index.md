@@ -6,16 +6,16 @@ comment: true
 home_btn: true
 btn_text: true
 footer: true
-title: ""
+title: "Aloh0mora"
 author: ""
 encrypted_text: true
 permalink: /
 ---
 
-# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
+# Aloh0mora
 
 <br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
+> Welcome to Aloh0mora Site.
 
 ## Features
 
