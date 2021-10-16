@@ -1,12 +1,12 @@
 # 1. Site Settings
-title               : pRoJEct-VeXEd
-owner               : "DeerRIDER"
-url                : "https://akiritsu.github.io"
-baseurl            : "/pRoJEct-VeXEd"
+title               : Aloh0mora
+owner               : "Aloh0mora"
+url                : "https://awasnanti.ketubruk.biz/"
+baseurl            : ""
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "Forget Everything, Aloh0mora~"
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "Go Away!"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
