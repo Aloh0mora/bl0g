@@ -70,9 +70,9 @@ defaults:
       layout              : "post"      # which layout to use by default
       publish             : true        # whether to show by default      
       btn_text            : true        # whether show button text by default
-      collection_list     : true        # whether show archive button by default
+      collection_list     : false        # whether show archive button by default
       home_btn            : true        # whether show home by default
-      maximize            : true        # whether show maximize button by default
+      maximize            : false        # whether show maximize button by default
       encrypted_text      : false       # whether use encrytion function by default
       toc                 : true        # whether show table of content by default
       toc_level           : 3           # the toc depth by default
@@ -84,16 +84,16 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
+email               :  
 linkedin            : 
-github              : "just-test" 
+github              : "aloh0mora" 
 gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
-twitter             : "just-test"
-facebook            : "just-test"
+website             : "https://awasnanti.ketubruk.biz/"
+twitter             : "aloh0mora"
+facebook            : 
 instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
+youtube             : 
+steam               : 
 weibo               :
       
 # 6. Where things are
