@@ -14,8 +14,8 @@ permalink: /
 
 # Aloh0mora
 
-<br>
-> Welcome to Aloh0mora Site.
+<br><center>
+> Welcome to Aloh0mora Site.</center>
 
 ## What is this ?
 
