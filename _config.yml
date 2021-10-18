@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : Aloh0mora
 owner               : "Aloh0mora"
-url                : "https://www.alohomora.id/"
+url                : "http://www.alohomora.id/"
 baseurl            : ""
 permalink           : /:title/
 description         : "Forget Everything, Aloh0mora~"
