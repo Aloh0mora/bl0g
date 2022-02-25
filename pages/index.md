@@ -7,7 +7,7 @@ home_btn: true
 btn_text: true
 footer: true
 title: "Aloh0mora"
-author: ""
+author: Aloh0mora
 encrypted_text: true
 permalink: /
 ---
@@ -21,3 +21,6 @@ permalink: /
 
 - Mini Site Created by War10ck.
 
+## What Language do you use for this ?
+
+- Trying to learn with Ruby on Rails & Jekyll.
